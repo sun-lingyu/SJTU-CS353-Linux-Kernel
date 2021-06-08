@@ -1,0 +1,1 @@
+cmd_/root/myromfs/romfs.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /root/myromfs/romfs.ko /root/myromfs/romfs.o /root/myromfs/romfs.mod.o;  true

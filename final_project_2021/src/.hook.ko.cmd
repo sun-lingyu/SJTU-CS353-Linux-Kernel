@@ -1,0 +1,1 @@
+cmd_/root/final_lab/hook.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /root/final_lab/hook.ko /root/final_lab/hook.o /root/final_lab/hook.mod.o;  true
