@@ -1,2 +1,0 @@
-/root/mtest/mtest.o
-
