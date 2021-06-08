@@ -21,7 +21,7 @@
 > Further explanation can be found in them respectively.  
 
 ## Other
-Lab3 is implemented on Linux  5.12.9  
+Lab3 is implemented on Linux  5.12.4  
 Lab4 and final project are inplemented on linux 5.5.11  
 This strange condition is because of the careless deletion of cloud resource.  
 (Luckily, the code for lab3 survives.
